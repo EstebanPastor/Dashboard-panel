@@ -147,7 +147,7 @@ function App() {
         <div className="pt-28">
           <h1 className="text-4xl text-gray-300 my-10">Plan & Pricing</h1>
           {/* Plans */}
-          <div className="text-gray-300 grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div className="text-gray-300 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {/* Cards */}
             <div className="bg-[#1E1F24] p-8 lg:p-12 rounded-xl mb-10">
               <div className="flex flex-col items-center mb-20">
